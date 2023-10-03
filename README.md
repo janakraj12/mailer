@@ -1,2 +1,2 @@
-# APIbuddy
-A python based package that provide necessary API'S
+# Mailer
+<h2>A python based script which will fetch unread emails from an IMAP server and cam be used as a starting point for more complex email handling tasks </h2>
